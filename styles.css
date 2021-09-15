@@ -1,0 +1,27 @@
+/* body{
+    background-color:lightblue;
+} */
+#title{
+    color: limegreen;
+    text-align: center;
+}
+/* p{
+    color: mediumaquamarine;
+    background-color: black;
+} */
+.p-large{
+    font-size: 32px;
+}
+.p-green{
+    color: green;
+    background-color: pink;
+    
+}
+.p-red{
+    color:azure;
+    background-color: blueviolet;
+}
+h1{
+    color: red;
+    text-align: center
+}

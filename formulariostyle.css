@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://wrmx00.epimg.net/radio/imagenes/2020/12/15/sociedad/1608071207_973891_1608072313_noticia_normal.jpg");
+    background-size: cover;
+}
+form{
+    font-size: 25px;
+}
+th{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+input{
+    width: 300px;
+    border-radius: 5px;
+    border:0;
+}
+.submit{
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: blue;
+}

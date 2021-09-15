@@ -1,0 +1,43 @@
+/* body{
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.title{
+    text-align: center;
+    color: royalblue;
+    background-color: black;
+    border: 2px dotted red;
+}
+.subtitle{
+    background-color: red;
+    color:white;
+    text-align: center;
+}
+#caja, #caja2{
+    background-color: black;
+}
+#caja{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+#caja p, #caja2 p{
+    color: white;
+}
+p {
+    animation-duration: 1.5s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 100%
+    }
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Agendar Cita</title>
+        <link rel="stylesheet" href="formulariostyle.css" type="text/css">
+        <body>
+            <h1>Citas</h1>
+            <form method="POST">
+                <center><table>
+                <p>
+                    <tr>
+                        <th><label for="name">Nombre: </label></th>
+                        <td><input type="text" name="name"/></td>
+                    </tr>
+                </p>
+                <p>
+                    <tr>
+                        <th><label for="nacimiento">Fecha de Nacimiento: </label></th>
+                        <td><input type="date" name="fenac"/></td>
+                </p>
+                <p>
+                    <tr>
+                        <th><label for="edad">Edad: </label></th>
+                        <td><input type="number" name="edad"/></td>
+                </p>
+                <p>
+                    <tr>
+                        <th><label for="email">Email: </label></th>
+                        <td><input type="email" name="email"/></td>
+                    </tr>
+                </p>
+                <p>
+                    <tr>
+                        <th><label for="cita">Agendar cita </label></th>
+                        <td><input type="date" name="cita"/></td>
+                </p>
+            </table></center>
+            <br/>
+            </hr>
+                <center><input type="submit" class="submit" value="Guardar datos"></center>
+            </form>
+        </body>
+    </head>
+</html>

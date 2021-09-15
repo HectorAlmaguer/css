@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://www.abc.com.py/resizer/zI8YapDOpV7tgYfZZgxLDt3rfJ8=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/SGMHXX55ONHBVKDC3RELVMZZCE.jpg");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: white;
+    text-align: center;
+}
+.p1{
+    background-color:#BDBDBD;
+}
+.p2{
+    font-weight: bolder;
+    background-color: #909090;
+    color: red;
+}
+label{
+    text-align: left;
+    color: blue;
+    text-decoration: underline;
+}
+div{
+    background-color:#BDBDBD;
+}
+.fecha{
+    color: limegreen;
+}

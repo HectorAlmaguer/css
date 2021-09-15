@@ -1,0 +1,40 @@
+body {
+    background-color: purple;
+    background-image: url("https://yt3.ggpht.com/a/AGF-l798bTmA6sC6HCLYosAAUlhd38mk7yaa7Pa7EQ=s900-mo-c-c0xffffffff-rj-k-no");
+  }
+#title{
+    border-style: dotted ;
+    background-image: url("https://66.media.tumblr.com/bf657d3a12bdb987ce6d12f4c62bdf61/tumblr_inline_nqiwqjqm1R1s0q4tt_1280.jpg");
+    text-align: center;
+    color: white;
+}
+p{
+    border-style: double;
+    text-align: justify;
+    font-size: 25px;
+    font: bolder;
+    color:black;
+    background-image: url("https://th.bing.com/th/id/OIP.VFP_OtPY3T6HD5ZK9XcPBgHaEo?pid=ImgDet&rs=1");
+}
+h1{
+    text-align: right;
+    font-size: 30px;
+    color:red;
+    font-family: Helvetica;
+}
+hr{
+    border-style: ridge;
+    border-color: blue;
+}
+.pdescription{
+    border: dotted;
+    border-color: red;
+    font-family:serif;
+    font: 32px;
+    color:limegreen;
+    background-color:grey;
+} 
+iframe{
+    -webkit-box-align: center;
+}
+
