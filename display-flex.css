@@ -1,0 +1,29 @@
+.container{
+    width: 90%;
+    height: 500px;
+    margin:0 auto;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* se adapte a la pantalla */
+}
+.caja{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja1{
+    border: 2px solid red;
+}
+.caja2{
+    border: 2px solid purple;
+    align-self: flex-end ;
+}
+.caja3{
+    border: 2px solid blue;
+}
+.caja4{
+    border: 2px solid greenyellow;
+}

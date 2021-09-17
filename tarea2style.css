@@ -19,11 +19,14 @@ nav{
 div{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     width: 100%;
 }
+.main{
+    margin-left: 10px;
+    margin-right: 10px;
+}
 .contain div{
-    margin: 10px;
-    padding:10px;
     height: 300px;
     background-color: gray;
     font-family: 'Indie Flower', cursive;
@@ -31,8 +34,7 @@ div{
     font-size: 45px;
     text-align: center;
     color: white;
-    
-    justify-content: center;
+    justify-content:center;
     align-items: center;
 }
 footer{
