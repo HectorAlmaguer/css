@@ -1,0 +1,17 @@
+.box{
+    display: flex;
+    background-color: orangered;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+.box div{
+    background-color:#0833a2;
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    line-height: 250px;
+    font-size: 100px;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color:#BDBDBD;
+}
+.ht{
+    width: 200px;
+}
+.c{
+    width: 200px;
+}
+h1{
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+h2{
+    background-color: grey;
+    color: white;
+    font: 35px;
+    font-family: 'Dosis', sans-serif;
+}
+span{
+    color: red
+}
+.sub{
+    background: white;
+    color:lime;
+    font-style: italic;
+}

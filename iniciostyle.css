@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://www.f1-fansite.com/wp-content/uploads/2020/09/11-mugello-thursday-scaled.jpg");
+    background-size: cover;
+}
+.info{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    color:blue;
+    text-align: justify;
+    background-color:whitesmoke; filter:alpha(opacity=60); opacity:.6;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.Menu{
+    font-size: 32px;
+    background-color: aquamarine;
+    border-radius: 5%;
+}
+.home{
+    font-size: 40px;
+    text-align: right;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

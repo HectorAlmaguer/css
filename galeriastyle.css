@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/11/26/15117103832720.jpg");
+    background-size: cover;
+}
+table{
+    font-size: 35 px;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 500px;
+}
+.home{
+    font-size: 40px;
+    text-align: right;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Menu{
+    font-size: 32px;
+    background-color: aquamarine;
+    color: springgreen;
+    text-align: right;
+}
+.mclaren{
+    color: orange;
+    font-weight: bold;
+}

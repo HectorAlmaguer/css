@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Contacto</title>
+        <link rel="stylesheet" href="contactostyle.css" type="text/css">
+        <body>
+            <table class="Menu" align="right">
+                <tr>
+                    <th class="home">Menu</th>
+                </tr>
+                <tr>
+                    <td><a href="inicio.html">F1 Info</a></td>
+                    <td><a href="galeria.html">Galeria</a></td>
+                    <td><a href="contacto.html">Contacto</a></td>
+                </tr>
+            </table>
+            <h1>Dejanos Conocerte</h1>
+            <form method="POST">
+                <center><table>
+                <p>
+                    <tr>
+                        <th><label for="name">Nombre: </label></th>
+                        <td><input type="text" name="name" placeholder="Sir Lewis Hamilton"/></td>
+                    </tr>
+                </p>
+                <p>
+                    <tr>
+                        <th><label for="edad">Edad: </label></th>
+                        <td><input type="number" name="edad" min="1" placeholder="36"/></td>
+                </p>
+                <p>
+                    <tr>
+                        <th><label for="email">Email: </label></th>
+                        <td><input type="email" name="email" placeholder="lewishamilton@f1.com.mx"/></td>
+                    </tr>
+                </p>
+                <p>
+                    <tr>
+                        <th><label for="escuderia">Escuderia Favorita </label></th>
+                        <td><select name="escuderia">
+                            <option value="1">Mercedes</option>
+                            <option value="2">Redbull</option>
+                            <option value="3">Ferrari</option>
+                            <option value="4">McLaren</option>
+                            <option value="5">Hass</option>
+                            <option value="6">Williams</option>
+                        </select></td>
+                    </tr>
+                </p>
+            </table></center>
+            <br/>
+            </hr>
+                <center><input type="submit" class="submit" value="Guardar datos"></center>
+            </form>
+        </body>
+    </head>
+</html>

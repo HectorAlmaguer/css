@@ -1,0 +1,26 @@
+.title{
+    font-family: 'Dosis', sans-serif;
+}
+.font{
+    font-family: 'Dancing Script', cursive;
+}
+.font1{
+    font-family: 'Dosis', sans-serif;
+    color: blue;
+}
+.font2{
+    font-family: 'Dancing Script', cursive;
+    color: red;
+}
+.font3{
+    font-family: 'Barlow Condensed', sans-serif;
+    color:purple
+}
+.font4{
+    font-family: 'EB Garamond', serif;
+    color: limegreen;
+}
+.font5{
+    font-family: 'Indie Flower', cursive;
+    color: orange;
+}
